@@ -1,4 +1,5 @@
 fuction shadowwizard(options){
+    console.log(`checking options ${options}`)
     let images = document.querySelectorAll('.shadowizard');
     
     if(options.shadow_type === 'hard'){
