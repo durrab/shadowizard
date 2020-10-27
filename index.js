@@ -1,4 +1,4 @@
-fuction shadowwizard(options){
+function shadowwizard(options){
     console.log(`checking options ${options}`)
     let images = document.querySelectorAll('.shadowizard');
     
